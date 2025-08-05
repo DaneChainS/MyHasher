@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Hasher</string>
+    <string name="button_text">Generate</string>
+    <string name="edit_text">Enter String here ...</string>
+    <string name="input_empty">Input empty! Please enter some input string</string>
+    <string name="result_text">Result</string>
+    <string-array name="algorithm_array">
+        <item>SHA-1</item>
+        <item>SHA-256</item>
+        <item>SHA-512</item>
+    </string-array>
+
+</resources>
